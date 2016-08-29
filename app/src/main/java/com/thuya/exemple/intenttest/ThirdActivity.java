@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class ThirdActivity extends Activity {
 
     private Button bCallA2 = null;
-    public final static String messageFromA3 = "Hey Second from Third";
+    public final static String messageFromA3 = "from Third";
 
 
     @Override
